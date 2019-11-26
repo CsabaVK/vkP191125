@@ -1,0 +1,10 @@
+table{
+    width: 400px;
+    margin: 100px auto;
+}
+td, th{
+    border-bottom: 1px solid gray;
+}
+caption{
+    background: darkred;
+}
